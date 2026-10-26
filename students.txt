@@ -1,0 +1,6 @@
+101,VALLI,20,cse
+112,kiran,21,ece
+117,sai,21,cse
+121,uma sri,21,mech
+122,test name,22,cse
+1234,krithi,20,cse
